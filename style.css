@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: restaurante;
+    src: url(fontes/computer-font.ttf);
+}
+
+
+.space{
+    margin-top: 70px;
+}
+
+.space11{
+    margin-top: 20px;
+}
+
+
+.cor{
+    background-color: rgb(151, 174, 175);
+}
+
+.cor1{
+    background-color: rgba(52, 74, 119, 0.199);
+}
+
+.canto2{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.alinhar{
+    margin-top: 0%;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: left
+}
